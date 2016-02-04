@@ -57,7 +57,7 @@ body {
 .curtain-back {
   z-index: 3;
   background: url("../img/bg.jpg") no-repeat center;
-/*  display: none;*/
+  display: none;
 }
 
 .curtain-front {
